@@ -5,10 +5,10 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 
 ---
 
-## 💻 Tecnologias que eu uso
+## 💻 Linguagens que eu uso
 
 - **Java**: 
-    - Desenvolvo aplicações robustas e escaláveis com **Java**. Gosto de trabalhar com **Spring Boot**, **Hibernate**, e a poderosa JVM.
+    - Essa foi a primeira linguagem que fui apresentado na faculdade, com enfase em POO**.
     - ⚡ **Exemplo**:
     ```java
     public class HelloWorld {
@@ -18,7 +18,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
     }
     ```
 - **Lua**: 
-    - Uma linguagem simples e poderosa que uso para **scripts rápidos**, **game development** e **automação de tarefas**.
+    - A linguagem que eu via como um desafio e hoje em dia tenho amor em estuda-la**.
     - ⚡ **Exemplo**: 
     ```lua
     print("Olá do Lua!")
@@ -29,7 +29,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
     ```
 
 - **Python**:
-    - A minha queridinha para **Data Science**, **Automação**, e **Desenvolvimento Web**.
+    - No meu curso de especialização em Full Stack, abordamos essa linguagem, que é uma das minhas favoritas.
     - ⚡ **Exemplo**: 
     ```python
     print("Olá, Mundo!")
