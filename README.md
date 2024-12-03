@@ -79,3 +79,5 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 </div>
 
 ##
+
+![Header](./[capa_git])
