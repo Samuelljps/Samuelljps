@@ -78,10 +78,4 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 
 </div>
 
-###
-
-<div>
-  <img src="https://i.imgur.com/sua_imagem.svg" alt="Animação da cobra" />
-</div>
-
-###
+##
