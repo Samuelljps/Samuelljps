@@ -1,4 +1,4 @@
-![capa](https://github.com/user-attachments/assets/25327edb-ca25-4866-9ad2-4dceb9ee1e6b)
+![capa_capa](https://github.com/user-attachments/assets/4c963dd7-0dd0-4a05-b59d-678ebb23565c)
 ##
 ## 🎨 Sobre mim
 Sou apaixonado por **programação**, com um amor especial por linguagens como **Java**, **Lua** e **Python**. Sempre buscando aprender e melhorar em tudo o que faço, focando em **eficiência**, **limpeza de código** e **boas práticas**.
