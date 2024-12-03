@@ -8,7 +8,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 ## 💻 Linguagens que eu uso
 
 - **Java**: 
-    - Essa foi a primeira linguagem que fui apresentado na faculdade, com enfase em POO**.
+    - Essa foi a primeira linguagem que fui apresentado na faculdade, com enfase em **POO**.
     - ⚡ **Exemplo**:
     ```java
     public class HelloWorld {
@@ -18,7 +18,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
     }
     ```
 - **Lua**: 
-    - A linguagem que eu via como um desafio e hoje em dia tenho amor em estuda-la**.
+    - A linguagem que eu via como um desafio e hoje em dia tenho **amor** em estuda-la.
     - ⚡ **Exemplo**: 
     ```lua
     print("Olá do Lua!")
@@ -29,7 +29,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
     ```
 
 - **Python**:
-    - No meu curso de especialização em Full Stack, abordamos essa linguagem, que é uma das minhas favoritas.
+    - No meu curso de especialização em Full Stack, abordamos essa linguagem, que é uma das minhas **favoritas**.
     - ⚡ **Exemplo**: 
     ```python
     print("Olá, Mundo!")
@@ -75,10 +75,10 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+  <img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
 
 ###
