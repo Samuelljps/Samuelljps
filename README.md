@@ -80,4 +80,4 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 
 ##
 
-![Header](./[capa_git])
+![capa](https://github.com/user-attachments/assets/25327edb-ca25-4866-9ad2-4dceb9ee1e6b)
