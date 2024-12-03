@@ -79,8 +79,9 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 </div>
 
 ###
+
 <div>
- <img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
+  <img src="https://i.imgur.com/sua_imagem.svg" alt="Animação da cobra" />
 </div>
 
 ###
