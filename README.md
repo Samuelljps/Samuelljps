@@ -75,10 +75,12 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
-  <img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
+
 </div>
 
 ###
-
+<div>
+ <img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
