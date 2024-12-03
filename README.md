@@ -5,7 +5,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 
 ---
 
-## 💻 Linguagens que eu uso
+## 💻 Linguagens que eu uso:
 
 - **Java**: 
     - Essa foi a primeira linguagem que fui apresentado na faculdade, com enfase em **POO**.
