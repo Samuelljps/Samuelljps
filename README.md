@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=600&duration=1500&pause=1000&color=0098F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Samuel!;Sou+um+desenvolvedor+full+stack.;%C3%89+um+prazer+ter+voc%C3%AA+aqui!)](https://git.io/typing-svg)
-![capadacapa](https://github.com/user-attachments/assets/d9eda576-ebb6-4270-9581-7be3a6baea80)
+![github-header](https://github.com/user-attachments/assets/610e95af-9c1d-4775-aa6f-6f289b798244)
 ##
 ## 🎨 Sobre mim
 Sou apaixonado por **programação**, com um amor especial por linguagens como **Java**, **Lua** e **Python**. Sempre buscando aprender e melhorar em tudo o que faço, focando em **eficiência**, **limpeza de código** e **boas práticas**.
