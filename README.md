@@ -44,7 +44,8 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuelljps&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   <a href="https://open.spotify.com/user/hybubyckemvif8hajzwapc0qw">
@@ -52,11 +53,11 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
   </a>
 </div>
 
-###
+##
 
 <h2 align="center">Atualmente estou usando:</h2>
 
-###
+##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
@@ -80,4 +81,4 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 </div>
 
 ##
-<img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
+
