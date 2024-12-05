@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Covered+By+Your+Grace&weight=600&duration=1500&pause=1000&color=49F700&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Samuel%2C+sou+dev+full-stack.;%C3%89+um+prazer+ter+voc%C3%AA+aqui!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agdasima&weight=600&duration=1500&pause=1000&color=0098F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+me+chamo+Samuel!;Sou+um+desenvolvedor+full+stack.;%C3%89+um+prazer+ter+voc%C3%AA+aqui!)](https://git.io/typing-svg)
 ![capa_capa](https://github.com/user-attachments/assets/4c963dd7-0dd0-4a05-b59d-678ebb23565c)
 ##
 ## 🎨 Sobre mim
