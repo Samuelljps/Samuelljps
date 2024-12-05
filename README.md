@@ -80,3 +80,4 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 </div>
 
 ##
+<img src="https://raw.githubusercontent.com/Samuelljps/Samuelljps/output/snake.svg" alt="Snake animation" />
