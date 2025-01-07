@@ -48,8 +48,7 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
 
 
 <div align="center">
-  <a href="https://open.spotify.com/user/hybubyckemvif8hajzwapc0qw">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hybubyckemvif8hajzwapc0qw&count=1&unique=true" alt="Spotify recently played"  />
+
   </a>
 </div>
 
@@ -79,6 +78,8 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
   <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
 
 </div>
+
+
 
 ##
 
