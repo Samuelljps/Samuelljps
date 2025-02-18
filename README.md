@@ -18,15 +18,18 @@ Sou apaixonado por **programação**, com um amor especial por linguagens como *
         }
     }
     ```
-- **Lua**: 
-    - A linguagem que eu via como um desafio e hoje em dia tenho **amor** em estuda-la.
+- **JavaScript**: 
+    - Linguagem essencial para desenvolvimento web, sendo uma das que mais utilizo no dia a dia.
     - ⚡ **Exemplo**: 
-    ```lua
-    print("Olá do Lua!")
-    function saudacao(nome)
-        return "Olá, " .. nome
-    end
-    print(saudacao("Mundo"))
+    ```JavaScript
+    console.log("Olá, Mundo!");
+    
+    function saudacao(nome) {
+        return `Olá, ${nome}!`;
+    }
+    
+    console.log(saudacao("Mundo"));
+
     ```
 
 - **Python**:
